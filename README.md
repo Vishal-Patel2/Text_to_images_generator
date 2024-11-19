@@ -79,8 +79,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Contact
 
-Your Name - [Your LinkedIn Profile](linkedin.com/in/ayushbhxrdwaj007)
-Project Link: https://github.com/AyushBhxrdwaj/text-to-image-.git
+Your Name - (https://www.linkedin.com/in/vishal-patel22/)
+Project Link: https://github.com/Vishal-Patel2/Text_to_images_generator
 
 ## 🙏 Acknowledgments
 
