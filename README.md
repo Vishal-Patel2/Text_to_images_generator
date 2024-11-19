@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Contact
 
-Your Name - (https://www.linkedin.com/in/vishal-patel22/)
+Vishal Patel - (https://www.linkedin.com/in/vishal-patel22/)
 Project Link: https://github.com/Vishal-Patel2/Text_to_images_generator
 
 ## 🙏 Acknowledgments
